@@ -1,17 +1,20 @@
-### Hi there 👋
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
-<!--
-**ArunaAcharya/ArunaAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Aruna
+<div id = "header" align= "center">
+  <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width= "200">
+</div>
+<hr>
+### :woman_technologist: About Me :
+<h4>If I were to describe myself using bullet points, it would look something like this: </h4>
 
+ 👩‍💻Self-taught Python programmer<br>
+ 
+🧠 Constantly learning and expanding my knowledge to stay ahead of the game<br>
 
-Here are some ideas to get you started:
+💻 Debugging is my superpower, and I never give up until I find the solution<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always looking for innovative ways to solve problems and streamline processes<br>
+
+🤝 Collaborative team player who enjoys sharing knowledge and working together towards a common goal<br>
+
+🚀 Passionate about using technology to make a positive impact on the world<br>
+<hr>
