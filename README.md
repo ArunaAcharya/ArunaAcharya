@@ -3,7 +3,7 @@
   <img src= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width= "200">
 </div>
 <hr>
-### :woman_technologist: About Me :
+<h1> :woman_technologist: About Me :</h1>
 <h4>If I were to describe myself using bullet points, it would look something like this: </h4>
 
  👩‍💻Self-taught Python programmer<br>
